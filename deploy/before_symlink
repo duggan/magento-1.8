@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+/usr/bin/magento_reconfigure --session-save=redis
