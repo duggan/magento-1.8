@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-magento_reconfigure --session-save=redis --cache-backend=memcache --cache-slow-backend=redis
+magento_reconfigure
